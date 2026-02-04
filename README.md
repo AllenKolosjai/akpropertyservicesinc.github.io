@@ -11,7 +11,7 @@
         <h1>AK Property Cleaning Services</h1>
         <p>Professional Cleaning Solutions in Hamilton, Ontario</p>
     </header>
-
+    
     <section class="hero">
         <h2>Welcome to AK Property Cleaning Services</h2>
         <p>At AK Property Cleaning Services, we deliver top-tier residential, commercial, and industrial cleaning solutions tailored to meet the unique needs of our clients in Hamilton, Ontario. With a team of experienced professionals using eco-friendly products and state-of-the-art equipment, we ensure spotless results that exceed expectations. Businesses and individuals choose us for our reliability, attention to detail, competitive pricing, and commitment to customer satisfaction. Whether it's a one-time deep clean or ongoing maintenance, we're dedicated to making your space shine—because a clean environment is the foundation of productivity and well-being.</p>
