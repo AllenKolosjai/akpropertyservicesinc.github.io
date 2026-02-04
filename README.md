@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <title>AK Property Cleaning Services - Hamilton, Ontario</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
@@ -30,32 +31,6 @@
             <li>
                 <h3>Industrial Cleaning</h3>
                 <p>Heavy-duty cleaning for factories, warehouses, and industrial sites to ensure safety and efficiency.</p>
-            </li>
-        </ul>
-    </section>
-
-    <section class="eco-tips">
-        <h2>Eco-Friendly Cleaning Tips</h2>
-        <ul>
-            <li>
-                <h3>Use Natural Ingredients</h3>
-                <p>Opt for vinegar, baking soda, and lemon juice for effective, non-toxic cleaning. These household items can tackle grease, stains, and odors without harming the environment.</p>
-            </li>
-            <li>
-                <h3>Reduce Water Waste</h3>
-                <p>Turn off the tap while scrubbing and use microfiber cloths that require less water and no chemicals. This conserves resources and keeps your space clean efficiently.</p>
-            </li>
-            <li>
-                <h3>Choose Reusable Tools</h3>
-                <p>Switch to reusable sponges, cloths, and mop heads instead of disposable ones. Wash and reuse them to minimize waste and promote sustainability in your daily cleaning routine.</p>
-            </li>
-            <li>
-                <h3>Ventilate Spaces</h3>
-                <p>Open windows during cleaning to improve air quality and reduce the need for chemical air fresheners. Fresh air helps in drying surfaces faster and naturally freshens the environment.</p>
-            </li>
-            <li>
-                <h3>Recycle and Upcycle</h3>
-                <p>Sort cleaning waste properly and repurpose old containers for storage. This not only keeps your space organized but also supports a circular economy.</p>
             </li>
         </ul>
     </section>
@@ -99,7 +74,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2026 AK Property Cleaning Services. All rights reserved. | Hamilton, Ontario | Contact: AKPropertyservicesinc@gmail.com</p>
+        <p>&copy; 2026 AK Property Cleaning Services. All rights reserved. | Hamilton, Ontario | Contact: info@akcleaning.ca</p>
     </footer>
 
     <script>
